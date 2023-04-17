@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "960282229932",
+    "project_id": "bitely-7e91a",
+    "storage_bucket": "bitely-7e91a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960282229932:android:0e3ac41b10c02f45df3309",
+        "android_client_info": {
+          "package_name": "com.example.bitely"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960282229932-89sd400rl4aku5v6v28i93vfleulo1ol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwN7bqO5J6o7x-AyOzx8AxlwppTNI6890"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960282229932-89sd400rl4aku5v6v28i93vfleulo1ol.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "960282229932-tpgllpe1o49imvn1leh6tsn85r1lv6jm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bitely"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
